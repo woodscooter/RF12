@@ -11,7 +11,9 @@ changed, to include both source and destination addresses, allowing peer-to-peer
 messaging with acknowledgement.  
 
 RF12.c holds all the code for driving the RF12 module.
+
 Tx2.c is for a simple battery-operated transceiver PCB with provision 
     for 2 push buttons and 2 LEDs
+
 RxRly2.c is for a mains-powered PCB with a single relay switching the mains,
     with no isolation from mains voltage.
